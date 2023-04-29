@@ -1,3 +1,7 @@
+# This is to add an AppImage app to the Linux menu
+# Be sure to put this file in ~/.local/share/applications
+# Remember to be nice to your mom
+
 [Desktop Entry]
 Name=App Image Name
 Exec=/path/to/appimage/someprogram.AppImage
